@@ -11,4 +11,4 @@ This project is a simple web scraping application that extracts book titles and 
 
 1. **Clone the Repository**:
    ```bash
-https://github.com/pragati9998/My_scraping_project.git
+   git clone https://github.com/pragati9998/My_scraping_project.git
